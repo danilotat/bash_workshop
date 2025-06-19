@@ -1,0 +1,10 @@
+Positive,POS_A(128),ERCC_00117.1,76296
+Endogenous,Mif,NM_010798.2,22144
+Positive,POS_B(32),ERCC_00112.1,19305
+Endogenous,Vim,NM_011701.4,18870
+Housekeeping,Rpl19,NM_009078.2,18027
+Endogenous,Cd63,NM_001042580.1,16509
+Housekeeping,Ppia,NM_008907.1,15932
+Endogenous,Gpi1,NM_008155.4,11355
+Endogenous,H2-D1,NM_010380.3,8694
+Endogenous,Lgals3,NM_001145953.1,8454
