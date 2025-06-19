@@ -21,7 +21,7 @@ git checkout -b madinolfi
 Now you should set the remote upstream for your repo
 
 ```
-git branch --set-upstream origin/madinolfi
+git branch --set-upstream-to origin/madinolfi
 ```
 
 Suppose your solution to the task1 was solved using a script called `task1.sh` and the flag is `solution1.txt`. To submit your solution, be sure to add both files to the tree and commit them, using a message. 
