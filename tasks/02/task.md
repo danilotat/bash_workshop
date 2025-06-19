@@ -19,9 +19,9 @@ The script should receive the file in input as argument, to be used as
 
 And should produce the submitted output.
 
-**HINTS**:
 
-- We're interested just in Endogenous. Exploit this information when you get the results.
+>[!TIP]
+> We're interested just in Endogenous quantifications. Exploit this information for obtaining the results.
 
 
 

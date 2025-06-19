@@ -5,7 +5,9 @@ NOTE: there're multiple ways to accomplish a task, so you could choose the one y
 
 ## Submission
 
-**Each of you must have its own branch**. 
+>[!IMPORTANT]
+>Each of you must have its own branch. Be sure to follow the instructions below.
+
 After you cloned the repository with 
 
 ```sh
@@ -44,7 +46,7 @@ So you could proceed.
 ```
 git add task1.sh
 git add solution1.txt
-git commit -m "Solution to task1 submitted by Mario Adinolfi" 
+git commit -m "solution to task1 submitted by Mario Adinolfi" 
 git push
 ``` 
 
