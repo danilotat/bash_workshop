@@ -11,7 +11,7 @@ The script should receive the file in input as argument, to be used as
 And should produce the submitted output.
 
 **HINTS**:
-- .gff files are tab-delimited. Gene annotations are typically in the 9th field.
+- .gff files are tab-delimited. Gene annotations are typically in the 9th field and entry type is in the 3rd.
  - You can use `grep`, `cut`, `awk`, `find`, etc.
 
  
