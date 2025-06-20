@@ -14,16 +14,16 @@ After you cloned the repository with
 git clone 
 ```
 
-Be sure to checkout a new branch whose name is given by your first letter of the name + your surname, using just lowercase letters. So, if you're Mario Adinolfi, your branch will be `madinolfi`. You will create the branch using 
+Be sure to checkout a new branch whose name is given by your first letter of the name + your surname, using just lowercase letters. So, if you're Mario Rossi, your branch will be `mrossi`. You will create the branch using 
 
 ```sh
-git checkout -b madinolfi
+git checkout -b mrossi
 ``` 
 
 Now you should set the remote upstream for your repo
 
 ```
-git branch --set-upstream-to origin/madinolfi
+git branch --set-upstream-to origin/mrossi
 ```
 
 Suppose your solution to the task1 was solved using a script called `task1.sh` and the flag is `solution1.txt`. To submit your solution, be sure to add both files to the tree and commit them, using a message. 
@@ -38,7 +38,7 @@ The output *should* looks like this
 
 ```
 ❯ git status
-On branch madinolfi
+On branch mrossi
 ```
 
 So you could proceed.
@@ -46,7 +46,7 @@ So you could proceed.
 ```
 git add task1.sh
 git add solution1.txt
-git commit -m "solution to task1 submitted by Mario Adinolfi" 
+git commit -m "solution to task1 submitted by Mario Rossi" 
 git push
 ``` 
 
