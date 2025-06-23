@@ -6,12 +6,17 @@ NOTE: there're multiple ways to accomplish a task, so you could choose the one y
 ## Submission
 
 >[!IMPORTANT]
->Each of you must have its own branch. Be sure to follow the instructions below.
+>Each of you must have its own fork and must work on a specific branch. Be sure to follow the instructions below.
+
+Create a fork of the repository by clicking on the fork button. 
+
+This will create your own fork where you could work without affecting the original repository.
+
 
 After you cloned the repository with 
 
 ```sh
-git clone 
+git clone https://github.com/<your_username>/bash_workshop.git
 ```
 
 Be sure to checkout a new branch whose name is given by your first letter of the name + your surname, using just lowercase letters. So, if you're Mario Rossi, your branch will be `mrossi`. You will create the branch using 
